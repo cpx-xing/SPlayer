@@ -1,11 +1,11 @@
 {
-  "name": "splayer",
+  "name": "xplayer",
   "version": "2.0.0-beta.4",
   "description": "A minimalist music player",
   "main": "./out/main/index.js",
-  "author": "imsyy",
-  "home": "https://imsyy.top",
-  "github": "https://github.com/imsyy/SPlayer",
+  "author": "培星",
+  "home": "https://xspace.site",
+  "github": "https://github.com/cpx-xing/SPlayer",
   "engines": {
     "node": ">=16.16.0"
   },
